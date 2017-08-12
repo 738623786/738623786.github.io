@@ -1,2 +1,5 @@
 CACHE MANIFEST
-/aa.css
+# 2017-08-12 v1.0.0
+
+FALLBACK:
+/html5/ /404.html
