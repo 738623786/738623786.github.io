@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04a41c1a-1159-458c-b14c-43641a678ac3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appCache/aa.css" afterPath="$PROJECT_DIR$/appCache/aa.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appCache/demo.appcache" afterPath="$PROJECT_DIR$/appCache/demo.appcache" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="demo.appcache" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appCache/demo.appcache">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="32">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -205,12 +206,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502439202219</updated>
       <workItem from="1502439217839" duration="1276000" />
-      <workItem from="1502527209005" duration="1039000" />
+      <workItem from="1502527209005" duration="1422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2315000" />
+    <option name="totallyTimeSpent" value="2698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="1161" height="1057" extended-state="0" />
@@ -301,9 +302,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appCache/banner.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appCache/index.html">
@@ -314,20 +318,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/appCache/demo.appcache">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="32">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appCache/demo.appcache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/appCache/banner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appCache/aa.css">
