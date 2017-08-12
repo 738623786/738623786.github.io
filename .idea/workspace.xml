@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a41c1a-1159-458c-b14c-43641a678ac3" name="Default" comment="" />
+    <list default="true" id="04a41c1a-1159-458c-b14c-43641a678ac3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appCache/aa.css" afterPath="$PROJECT_DIR$/appCache/aa.css" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aa.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="aa.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appCache/aa.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -61,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appCache/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="64">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -110,9 +112,9 @@
         <option value="$PROJECT_DIR$/partyBuild/index.html" />
         <option value="$PROJECT_DIR$/demo.appcache" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/appCache/aa.css" />
         <option value="$PROJECT_DIR$/appCache/demo.appcache" />
         <option value="$PROJECT_DIR$/appCache/index.html" />
+        <option value="$PROJECT_DIR$/appCache/aa.css" />
       </list>
     </option>
   </component>
@@ -203,12 +205,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502439202219</updated>
       <workItem from="1502439217839" duration="1276000" />
-      <workItem from="1502527209005" duration="2312000" />
+      <workItem from="1502527209005" duration="2486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3588000" />
+    <option name="totallyTimeSpent" value="3762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="714" y="23" width="1161" height="1057" extended-state="0" />
@@ -307,9 +309,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appCache/banner.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/appCache/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appCache/demo.appcache">
@@ -320,18 +325,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/appCache/banner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/appCache/aa.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appCache/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
