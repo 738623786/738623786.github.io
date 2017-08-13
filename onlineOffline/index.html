@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #offline{
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+            background-color: rgba(0,0,0,0.5);
+            color: yellow;
+            display: none;
+            text-align: center;
+            line-height: 40px;
+        }
+    </style>
+</head>
+<body>
+<div id="offline">你的网路已经断开连接!!!</div>
+<script>
+    var offline = document.getElementById('offline');
+    offline.style.display = navigator.onLine?'none':'block';
+    window.addEventListener('online',function () {
+        offline.style.display = 'none';
+    });
+    window.addEventListener('offline',function () {
+        offline.style.display = 'block';
+    });
+</script>
+
+</body>
+</html>
