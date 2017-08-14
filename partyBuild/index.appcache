@@ -1,11 +1,11 @@
 CACHE MANIFEST
-# 2017-08-12 v1.0.0
+# 2017-08-12 v1.1.0
 index.html
-static/css/app.16e66e3b5622db18620c629ac8f64303.css
-static/js/0.c57faad0654aaf4a8afc.js
-static/js/app.d84d618580f2785aedc0.js
-static/js/manifest.f96293f1471470c09569.js
-static/js/vendor.0cc98813992847c23443.js
+static/css/app.0efb92c2785a30c0ae18c26696cdc16c.css
+static/js/0.a1239b2124cc98dfe693.js
+static/js/app.0fc22b9856df227bb658.js
+static/js/manifest.adaf582dfe06ff5992dd.js
+static/js/vendor.9177adb2c57b6edc9112.js
 
 NETWORK:
 *
