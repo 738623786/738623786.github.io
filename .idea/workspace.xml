@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04a41c1a-1159-458c-b14c-43641a678ac3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/css/app.0efb92c2785a30c0ae18c26696cdc16c.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/css/app.0efb92c2785a30c0ae18c26696cdc16c.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/0.a1239b2124cc98dfe693.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/0.a1239b2124cc98dfe693.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/app.0fc22b9856df227bb658.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/app.0fc22b9856df227bb658.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/manifest.adaf582dfe06ff5992dd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/manifest.adaf582dfe06ff5992dd.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/vendor.9177adb2c57b6edc9112.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/vendor.9177adb2c57b6edc9112.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/css/app.b6e76d93be77b7af64c9ad03d73f1ab8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/0.95a51c555e1b31760e64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/app.d6e7926eb6147308a9f3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partyBuild/static/js/manifest.ffcd494e476aa730574b.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partyBuild/index.appcache" afterPath="$PROJECT_DIR$/partyBuild/index.appcache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partyBuild/index.html" afterPath="$PROJECT_DIR$/partyBuild/index.html" />
@@ -98,10 +92,17 @@
       <file leaf-file-name="index.appcache" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partyBuild/index.appcache">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="64">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jifen@2x.8c04f6e.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partyBuild/static/img/jifen@2x.8c04f6e.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -152,8 +153,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="401" />
-    <option name="y" value="265" />
+    <option name="x" value="223" />
+    <option name="y" value="228" />
     <option name="width" value="1428" />
     <option name="height" value="1057" />
   </component>
@@ -197,13 +198,6 @@
               <item name="partyBuild" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="738623786.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="738623786.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="partyBuild" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="738623786.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -262,15 +256,15 @@
       <workItem from="1502439217839" duration="1276000" />
       <workItem from="1502527209005" duration="8324000" />
       <workItem from="1502600065134" duration="5047000" />
-      <workItem from="1502673330635" duration="2951000" />
+      <workItem from="1502673330635" duration="4084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17598000" />
+    <option name="totallyTimeSpent" value="18731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="401" y="265" width="1428" height="1057" extended-state="0" />
+    <frame x="223" y="228" width="1428" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31911868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -496,10 +490,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partyBuild/static/img/jifen@2x.8c04f6e.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partyBuild/index.appcache">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="64">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
